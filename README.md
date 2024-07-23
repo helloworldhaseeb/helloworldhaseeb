@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloworldhaseeb&label=Profile%20views&color=0e75b6&style=flat" alt="helloworldhaseeb" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/seebi_ig/" target="blank"><img src="https://img.shields.io/instagram/follow/seebi_ig?logo=instagram&style=for-the-badge" alt="seebi_ig" /></a> </p>
+<p align="left"> <a href="https://twitter.com/seebi_tw" target="blank"><img src="https://img.shields.io/twitter/follow/seebi_tw?logo=twitter&style=for-the-badge" alt="seebi_tw" /></a> </p>
 
 - 🌱 I’m currently learning **Datascience**
 
